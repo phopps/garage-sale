@@ -5,7 +5,7 @@ Please use this document as a guideline of the best practices when designing and
 ## Images
 
 Garage Sale banner:
-![Garage Sale Banner](client/public/images/garage-sale-banner.png)
+![Garage Sale Banner](client/public/images/garage-sale-banner.PNG)
 
 Garage Sale logo:
 ![Garage Sale Logo](client/public/images/garage-sale-logo.png)
